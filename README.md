@@ -1,5 +1,5 @@
 # FastMath
-Fast calculate game developed on Android.
+Fast calculate game developed on Android
 
 ## App preview
 ![image1](https://raw.githubusercontent.com/ratikaewkam/FastMath/main/preview/1.jpg)
